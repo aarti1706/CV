@@ -1,0 +1,38 @@
+.my-image{
+    border-radius: 50%;
+    height:200px;
+    width: 200px;
+}
+.first-class{
+    border: 1px solid black;
+    padding-top: 5PX;
+    padding-bottom: 5px;
+    margin: 3px;
+    width: 200px;
+    text-align: center;
+}
+.second-class td{
+    border: 1px solid black;
+    padding-top: 5PX;
+    padding-bottom: 5px;
+    margin: 3px;
+    width: 200px;
+    text-align: center;
+}
+.third-class td{
+    border: 1px solid black;
+    padding-top: 5PX;
+    padding-bottom: 5px;
+    margin: 3px;
+    width: 200px;
+    text-align: center;
+}
+.fourth-class td{
+    border: 1px solid black;
+    padding-top: 5PX;
+    padding-bottom: 5px;
+    margin: 3px;
+    width: 200px;
+    text-align: center;
+
+}
